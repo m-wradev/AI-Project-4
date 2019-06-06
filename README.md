@@ -1,7 +1,7 @@
 # AI-Project-4
 
 ## How to Compile
-Type "make" in the directory containing the makefile to compile the project with no debug output enabled.
+Type `make` in the directory containing the makefile to compile the project with no debug output enabled.
 
 You can enable debug output by typing `make dbg`.
 
